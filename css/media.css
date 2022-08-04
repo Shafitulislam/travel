@@ -1,0 +1,612 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    
+    /*MENU START*/
+.logo h1{
+     font-size: 25px;
+}
+.menu ul li a{
+        padding: 10px 0 0px !important;
+    }
+.s_a{
+    padding-bottom: 15px;
+}  
+.ddm_s[data-bs-popper] {
+    top: 60px;
+    left: 0px;
+    margin-top: 0;
+   } 
+.se_g{
+    padding right: 3px !important;
+    text-align: left;
+}      
+.ddm_s{
+    width: 300px;
+    padding:5px 5px;
+    margin: 0
+    border: 1px solid #8e8e8e;
+    border-radius: 0;
+}
+.fa-magnifying-glass:before, .fa-search:before {
+    content: "\f002";
+}
+
+.s_input{
+    padding:none;
+}
+/*MENU END*/
+
+/*top banner & slider*/
+
+.bs_item{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bs_item h2{
+    font-size: 40px;
+}
+.bs_item button{
+    width: 150px;
+    height: 45px;
+}
+/*wellcome*/
+.c_tittle {
+    text-align: center;
+}
+.c_h1{
+    font-size: 28px;
+}
+.ws_item {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+/* about */
+    .about-left {
+    padding: 0 0px;
+    text-align: center;
+    }
+    .about-right {
+    text-align: center;
+    }
+    .about-title {
+    font-size: 24px;
+    margin-top: 48px;
+    }
+    .middle-p, .last-p {
+    margin: 40px 10px 38px 10px;
+    text-align: justify;
+    }
+    
+      /*additiom*/
+.bs_item h2 {
+    font-size: 40px;
+}
+.bs_item p{
+    font-size: 20px;
+}
+.welcome {
+    padding-bottom: 80px;
+}
+.w-item {
+    margin: 45px 10px 0;
+}
+.w-content p {
+    padding: 20px;
+} 
+.sin_btn {
+    margin-bottom: 70px;
+} 
+.bg_ash {
+    padding-bottom: 10px;
+}
+ .gtext_a {
+    padding: 10px 10px 40px 10px;
+  }
+ .bg_a {
+    margin-bottom: 50px;
+} 
+.g_text1 h2 {
+    color: #fff;
+    font-size: 30px;
+    font-weight: 700;
+}
+  .g_text1 p {
+    margin: 30px 0;
+    font-size: 16px;
+    color: #fff;
+    text-align: justify;
+}
+.img_a {
+    width: 145vh; 
+}
+.gallery {
+    margin-bottom: 75px;
+}
+.hiking {
+    margin: 10px 0 70px;
+    padding: 50px 0;
+}
+.hiking h2 {
+    margin-bottom: 30px;
+    font-size: 30px;
+}
+.hiking p {
+    text-align: center;
+    font-size: 18px;
+}
+.comment {
+    margin-bottom: 90px;
+}
+.img_b{
+    margin-bottom: 40px;
+}
+.services h2 {
+    font-size: 26px;
+    margin-bottom: 20px !important;
+}
+.services {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.services p {
+    font-size: 16px;
+}
+.services h4 {
+    font-size: 18px;
+}
+.p_2 {
+    font-size: 18px;
+}
+.lorem {
+    margin-bottom: 70px;
+}
+.contact-sec {
+    padding-bottom: 0px !important;
+}
+.contact-form {
+    padding-top: 10px;
+    margin: 10px 0px !important;
+}
+
+/* footer start */
+ .footer_area {
+      padding: 120px 0 60px;
+      min-height: 500px;
+      margin-top: 0px;
+   }
+
+ .f_1 p {
+    font-size: 16px;
+    padding-right: 5px;
+   /* margin-bottom: 40px;*/
+}
+.f_2 p a {
+    font-size: 16px;
+}
+.f_2 h4 {
+    margin-bottom: 15px;
+    margin-top: 40px;
+}
+    .t_footerp {
+       
+        margin: 0 40px 40px;
+    }
+    
+    .footer_icon i {
+        
+        margin: 10px 10px 30px;
+        
+        padding: 8px;
+        
+    }
+    .footer_left {
+        text-align: center;
+    }
+    .footer_right {
+        margin: 25px 44px 25px 0px;
+    }
+    
+    
+    /* contact start */
+    .contact-form {
+            margin: 0px 0px;}
+    
+            
+        .contact-sec{
+            padding-bottom: 50px;
+        }
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*menu start*/
+.logo h1{
+     font-size: 25px;
+}
+.menu ul li a{
+        padding: 15px 0 0px !important;
+    }
+.s_a{
+    padding-bottom: 15px;
+}  
+.ddm_s[data-bs-popper] {
+    top: -10px;
+    left: 100px;
+    margin-top: 0;
+   }   
+.fa-magnifying-glass:before, .fa-search:before {
+    content: "\f002";
+}
+
+
+/*top banner & slider*/
+
+.bs_item{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.bs_item h2{
+    font-size: 40px;
+}
+.bs_item button{
+    width: 150px;
+    height: 45px;
+}
+/*wellcome*/
+.c_tittle {
+    text-align: center;
+}
+.c_h1{
+    font-size: 28px;
+}
+.ws_item {
+}
+/*about us*/
+ /* about */
+    .about-left {
+    padding: 0 60px;
+    text-align: center;
+    }
+    .about-right {
+    text-align: center;
+    }
+    .about-title {
+    
+    margin-top: 48px;
+    }
+    .middle-p, .last-p {
+    margin: 40px 25px 38px 25px;
+    
+    }
+   /*additiom*/
+.bs_item h2 {
+    font-size: 50px;
+}
+.welcome {
+    padding-bottom: 80px;
+}
+.w-item {
+    margin: 45px 10px 0;
+}
+.w-content p {
+    padding: 20px;
+}  
+.bg_ash {
+    padding-bottom: 10px;
+}
+ .gtext_a {
+    padding: 10px 10px 40px 10px;
+  }
+ .bg_a {
+    margin-bottom: 50px;
+} 
+.g_text1 h2 {
+    color: #fff;
+    font-size: 34px;
+    font-weight: 700;
+}
+  .g_text1 p {
+    margin: 30px 0;
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+}
+.img_a {
+    width: 145vh; 
+}
+.gallery {
+    margin-bottom: 90px;
+}
+.hiking {
+    margin: 10px 0 100px;
+    padding: 50px 0;
+}
+.hiking h2 {
+    margin-bottom: 30px;
+    font-size: 34px;
+}
+.hiking p {
+    font-size: 18px;
+}
+.services h2 {
+    font-size: 26px;
+    margin-bottom: 20px !important;
+}
+.services {
+    margin-bottom: 30px;
+    padding: 20px;
+}
+.services p {
+    font-size: 16px;
+}
+.services h4 {
+    font-size: 18px;
+}
+.p_2 {
+    font-size: 18px;
+}
+.lorem {
+    margin-bottom: 90px;
+}
+.contact-sec {
+    padding-bottom: 40px;
+}
+
+/* footer start */
+ .footer_area {
+      padding: 120px 0 60px;
+      min-height: 500px;
+      margin-top: 20px;
+   }
+
+ .f_1 p {
+    font-size: 16px;
+    padding-right: 5px;
+    margin-bottom: 40px;
+}
+.f_2 p a {
+    font-size: 16px;
+}
+    
+    .footer_left {
+        text-align: center;
+    }
+    .footer_right ul li a {
+        margin: 0 0 0 30px;
+        color: #ffffff;
+    }
+    /* cotaact start */
+    .contact-form {
+        margin: 0px -70px;  
+    }
+
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*menu start*/
+.menu ul li a{
+    padding: 15px 0 0px !important;
+}
+.s_a{
+    padding-bottom: 15px;
+}  
+.ddm_s[data-bs-popper] {
+    top: -10px;
+    left: 100px;
+    margin-top: 0;
+   }
+ /*menu end     */
+/*wellcome*/
+.c_tittle {
+    text-align: center;
+}
+.c_h1{
+    font-size: 28px;
+}
+.ws_item {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+/*addition*/
+.bs_item h2 {
+    font-size: 50px;
+}
+.welcome {
+    padding-bottom: 80px;
+}
+.w-content p {
+    padding: 20px;
+}  
+.bg_ash {
+    padding-bottom: 10px;
+}
+ .gtext_a {
+    padding: 10px 10px 20px 10px;
+  }
+.g_text1 h2 {
+    color: #fff;
+    font-size: 34px;
+    font-weight: 700;
+}
+  .g_text1 p {
+    margin: 30px 0;
+    font-size: 18px;
+    color: #fff;
+    text-align: justify;
+}
+.img_a {
+    width: 145vh; 
+}
+.gallery {
+    margin-bottom: 150px;
+}
+.hiking {
+    margin: 10px 0 170px;
+    padding: 100px 0;
+}
+.hiking h2 {
+    margin-bottom: 30px;
+    font-size: 34px;
+}
+.hiking p {
+    font-size: 18px;
+}
+.services h2 {
+    font-size: 26px;
+    margin-bottom: 20px !important;
+}
+.services {
+    padding: 20px;
+}
+.services p {
+    font-size: 16px;
+}
+.services h4 {
+    font-size: 18px;
+}
+.p_2 {
+    font-size: 18px;
+}
+
+
+/* footer start */
+ .footer_area {
+      padding: 190px 0;
+    min-height: 600px;
+      margin-top: 20px;
+   }
+
+ .f_1 p {
+    padding-right: 5px;
+ }  
+.footer_white {  
+    font-size: 14px;
+}
+.footer_right ul li a {
+    margin: 0 0 0 5px;   
+     font-size: 14px;
+}
+/* contact start */
+.contact-form {
+    margin: 0 0px;   
+}
+
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*top banner & slider*/
+
+.bs_item{
+    margin-top: 180px;
+    margin-bottom: 180px;
+}
+.bs_item h2{
+    font-size: 50px;
+}
+
+/*wellcome to nipro*/
+.c_h1 {
+    font-size: 27px;
+    text-align: center;
+}
+.ws_item {
+    margin-top: 70px;
+    margin-bottom: 90px
+}
+/*about us*/
+ .middle-p, .last-p {
+    margin: 20px 15px 26px 0;
+    
+    }
+ /*gallery*/
+ .gtext_a {
+    padding: 40px 30px 0px 40px;
+  }
+  .img_a {
+     width: 145vh; 
+    }
+    .hiking {
+        padding: 125px 0;
+    }
+   
+   .footer_area {
+      padding: 190px 0;
+    min-height: 600px;
+      margin-top: 20px;
+   }
+    
+   
+    
+    /* footer start */
+    .footer_icon i {
+            margin: 20px 8px 80px;
+        
+    }
+    
+    /* contact start */
+    
+    .contact-form {
+        margin: 0px 70px;
+        padding-top: 60px;
+    }
+    
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+
+    /*wellcome */
+.c_h1 {
+    font-size: 28px;
+}
+.ws_item {
+    margin-top: 70px;
+    margin-bottom: 90px
+}
+.middle-p, .last-p {
+    margin: 20px 15px 26px 0;
+    
+    }
+    /* recent start */
+    .c_recent_menu ul li {
+    margin: 0 10px;
+    
+    }
+    .recent_img {
+    margin-bottom: 40px;
+    }
+    /*gallery*/
+    .img_a {
+     width: 145vh; 
+    }
+    
+    /* contact start */
+    .contact-form {
+        margin: 0px 135px;
+        
+    }
+
+}
+
+/*Extra Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+    /*gallery*/
+   .w-item {
+
+   }
+   .c_img{
+    height: 100%;
+    min-width: 98%;
+
+}
+.img_a {
+     width: 145vh; 
+}
+
+
+}
